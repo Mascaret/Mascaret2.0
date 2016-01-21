@@ -1,0 +1,465 @@
+1,20900000,Stock development material
+2,20910000,Prototypes stock purchased parts STO
+3,20920000,Stock development material STO
+6,90001000,PS cost alloc. (internal labor) (P01)
+7,90001001,PS cost alloc. (external labor) (P01x)
+8,90001010,Technical Equipment (DPE01)
+9,90001020,Technical Equipment (DPE02)
+10,90001030,Technical Equipment (DPE03)
+11,99000999,Data migration project costs
+12,52000000,Ch.inv.raw material
+13,52000100,Ch.inv.raw material supplier
+14,52008000,Ch.inv.raw material textil
+15,52009000,Ch.inv.raw material metal
+16,52010000,Ch.inv.packaging
+17,52020000,Ch.inv.operating supplier
+18,52030000,Ch.inv.loading equipment
+19,52050000,Ch.inv.maintenance material
+20,52090000,Ch.inv.development material sale
+21,52091000,Ch.invent develop.pr
+22,52091100,cons.ch.inv.dev. STO
+23,52092000,Ch.invent develop.ST
+24,52100000,Ch.invent trade gds
+28,52108000,consumpt. change in invent. trading good
+29,52110000,Ch.invent semi.gds s
+30,52110010,Consu.change invent. semi-fin goods sale
+31,52110100,Consump.change in invent. semifin. goods
+32,52111000,Cons.change inventories semifinished goo
+33,52120000,Ch.invent fin.gds.sa
+34,52120010,Consumpt.change in invent. finished good
+35,52121000,consump.change in inventories finished g
+36,50320000,FX-gain between GR and IR
+37,50321000,FX-gain between GR and IR non productive
+60,54030000,Income from scrap
+61,54030010,INCOME FROM SCRAP IC
+62,60000000,Raw materials expenses
+63,60001000,other raw material not inventory recorde
+64,60008000,Raw materials expenses textil
+65,60009000,Raw materials expenses metal
+66,60010000,Consumption packaging material
+67,60020000,Consumption operating supplies
+68,60021000,CONSUMP.CONSUMABLES
+69,60050000,Consumption maintenance material
+70,60060000,Ramp up costs supplier
+71,60090000,Consumption development material
+72,60091000,Cons.dev.mat. STO
+73,60100000,Consumption trading goods
+76,60110000,Consumption semifinished goods
+77,60110010,Consumption IC semifinished goods
+78,60120000,Consumption finished goods
+79,60120010,Consumption finished goods IC
+80,60180000,Add. mat.cons. scrap
+81,60209000,Expense inventories transfer development
+82,60300000,Price diff.raw mat
+83,60309000,Price diff.developme
+84,60309100,Price diff.prototype
+85,60309900,Production Difference Prototypes
+86,60320000,FX-loss between GR and IR
+87,60321000,FX-loss between GR and IR non prod. mat
+88,60390000,onetime paym. retroactive price adjustm
+89,60409000,stock diff.developme
+90,60509000,Revalu.development m
+91,60509100,REVALU.PROTOT.MAT.ST
+92,60600000,Scrap raw mat
+93,60601000,Scrap packg
+94,60602000,Scrap op.supp
+95,60603000,SCRAP LOAD.EQUIP
+96,60605000,SCRAP MAINT.
+97,60609000,Scrap development ma
+98,60609100,SCRAP PROTOT.MAT.STO
+99,60610000,Scrap trade gds
+102,60611000,Scrap semi.gds
+103,60612000,Scrap fin.gds
+104,60618000,Expense scrapping trading goods Young Dr
+105,61010000,Development material
+106,61010010,Prototype Costs for R&D from Group IC
+107,61020000,Expenses prototype tools
+108,61125000,Subcontracting
+109,61125100,Administrator Work Bench (AWB)
+110,61210100,Charg.scrap to suppl
+111,90000000,Production overhead costs pers. (FSX)
+112,90000010,Machine costs (MST)
+113,90000011,Machine costs (MST) - special process
+114,90000020,Direct Labour (FST)
+115,90000021,Direct labour special process (FST)
+116,90000030,Set up costs (RST)
+117,90000040,auxiliary&supplies (FXU,FXX)
+118,90000090,Set up costs Maschine related (RMST)
+119,93000010,Material overhead costs
+120,93000015,Material overhead costs freight
+121,61000000,Ext.devel.know how
+122,61000010,external processing,IC
+123,61002000,External processing construction
+124,61003000,External processing electronics
+125,61004000,External processing testing
+126,61120000,external processing of pilot-run series
+127,61121000,External Processing
+128,61130000,type authorization a
+129,61700000,external processing
+130,61720000,external process.IT
+131,67720000,consultancy EDP
+132,67730000,miscell.consultancy
+133,67020000,motor vehicle rent
+134,67500000,Bank charges
+135,68400000,car fuel
+136,68410000,Motor vehicle expen.
+137,68500000,Trav. exp. allowance
+138,68500200,Empl travel exp - non IRES deductible
+139,68500300,Other Pers trav exp - partially IRES ded
+140,68500400,Other Pers trav exp - non IRES deductibl
+141,68501300,Group Empl trav exp - partially IRES ded
+142,68501400,Group Empl trav exp - not IRES deductibl
+143,68510000,lodging exc. allowan
+144,68520000,travel expenses - fl
+145,68530000,trav. exp. exc. allo
+146,68531000,travel expenses kilometer allowance
+147,68540000,other travel expense
+148,68600000,Busin.ent.exp.50% d
+149,68610000,business entertainment, 100 % deductible
+150,68722000,representation < 25 Euro
+151,68722100,representation 25 Euro < X < 50 Euro
+152,68722200,representation > 50 Euro
+153,768540910,other travel expenses manuf. companies
+155,61127000,costs circulation packaging
+156,61200000,Intercompany transfers services
+157,61630000,maintenance EDP
+158,67030000,data process/rent so
+159,68730000,installation costs
+160,68930000,change in post SOP costs DfS / TfS
+161,70900100,Stamp Duty Expense
+162,70900200,Stamp Duty Income
+163,92003007,PM Projektsystem services
+164,60700000,freight inward
+165,60710000,freight inward,extra
+166,60720000,freight inward,misce
+167,60740000,customs duties
+168,61122000,freight costs intra-plant
+169,61400000,freight outward
+170,61410000,freight outward etxr
+171,51100000,R&D Income
+172,51100010,R&D Income IC
+173,51100011,Sales Revenues R&D Holding
+174,51110000,Income prototypes
+175,51110010,Income prototypes IC
+176,51110011,Income prototypes Holding
+177,51111000,Income prototype tools
+178,51120000,Income Pre-Series / PPAP 3rd
+179,90002000,QS cost allocation (QS)
+180,90002010,ASQE Activities
+181,90005010,Manufact. Plant Engineering
+182,90005000,FTD-hours
+183,90006000,PUR cost all. (Purchase) till 2009 APQP
+184,90002100,Logistic Project Costs (PROOTH)
+185,90006100,Product Costing Activities
+186,90008000,Charging Hours Sales Manager (SALE)
+187,90007010,PM hours
+188,61110000,Subsidies tools to suppliers
+189,61100000,tool modification costs
+190,61620000,maintenance tools
+191,51200000,Income tools change
+192,51200010,Income tool changes after SOP - IC
+193,765050000,depr.tools
+194,754070000,INC.REL.DEF.TOOL GAI
+195,761101000,Rel.def.tool loss
+196,94800000,down payments
+197,94120000,external costs tools fixed assets
+198,94121000,external costs tools - accrual
+199,94130000,external costs tools for sale
+200,54300000,Subsidies Tools b.S.
+204,94110000,extern.costs investm
+205,94100000,extern.costs investm. prod. & office eq.
+206,54010010,LICENSE INC. IC
+207,54011010,License income IC - IP
+208,54100000,Income, miscell.oper
+209,54100010,Income, miscellaneous operating
+210,54100011,Income out of Holding cost reimbursement
+211,57300000,Foreign exch gain re
+212,67200010,Licences and concessions IC
+213,51109000,R&D Income from DfS amortization
+214,723001000,Tools designated for sale
+215,723002000,R&D Service designated for sale
+216,743001000,Advances tool for sale (TfS) received
+217,743002000,Contribution for R&D Services
+218,729010000,Deferred Tool Loss
+219,729020000,Deferred R&D loss
+220,749010000,Deferred Income Tools
+221,749020000,Deferred Income R&D Service Sale
+223,708200000,Assets under construction intangible ass
+224,708240000,Assets under construction development co
+225,708241000,Assets under constr. subsidy development
+226,708400000,Asset under construction land and buildi
+227,708500000,Asset under construction tools
+228,708520000,Asset under construction Subsidy tools
+229,708600000,Assets under constr. technical equip/mac
+230,708700000,Assets under construction office equipme
+231,708731000,Assets under construction transport rack
+233,701000000,Start-up/business expansion
+234,702000000,Licenses, Patents
+235,702200000,Software
+236,702400000,Development costs after SOP
+237,702410000,Subsidies development costs after SOP
+238,703000000,Goodwill (acquired)
+239,703100000,Customer Relationship (acquired)
+240,703200000,Technology (acquired)
+241,704000000,Land
+242,704100000,Buildings
+243,704610000,Buildings Improvement A
+244,704611000,Buildings Improvement B
+245,704612000,Buildings Improvement C
+246,705000000,Tools
+247,705020000,Subsidy Tools
+248,705030000,Extraordinary Maintenence Tools and Equi
+249,705300000,Usage rights
+250,705310000,Subs.usage rights
+251,705401000,Improvement preperation industrial tooli
+252,706000000,technical equipment and machinery
+253,706215000,CNC Machines - Robotics
+254,707000000,Office equipment
+255,707100000,EDP equipment
+256,707200000,Measuring Systems
+257,707300000,Motor Vehicles
+258,707310000,Transport Racks
+259,707320000,Materials Handling Equipment
+260,707600000,Office equipment
+261,707620000,Office furniture
+262,707900000,Low value assets
+263,707901000,Low value assets >150-1000 EUR
+265,709700000,Leasing Vehicle Fleet
+266,50000000,Revenues from finished product sale
+267,50000010,Sales IC
+268,50002000,Revenue finished goods (non SD postings)
+271,50090000,SALESDEDWARRENTIES
+272,50090010,SALESDEDWARRENT.IC
+273,50090100,SALES DEDUCTION OBL.
+274,50090110,SALES DED. OBLIG.IC
+275,50091000,Disc. promotions GCS
+276,50091100,Quantity disc./bonus
+277,50091110,Quantity discounts/bonus IC
+278,50092000,cash discount expens
+280,50200000,SalesSem-FinGoods
+281,50200010,Sales sem-fin. g. IC
+282,50300000,Rev. tg-raw mater.
+283,50300010,Rev. manuf. goods IC
+285,51091000,Sales trad.goods-dis
+286,51091010,Sal.trad.goods-disIC
+287,51400000,Income rework.Cust.
+288,51400010,INC. REWORK.CUST. IC
+289,51410000,Income rework.suppl.
+290,51410010,Inc.rework.suppl. IC
+292,51420000,Income repair work
+293,51420010,Inc. repair work IC
+294,51500000,Rev.from oth.activit
+295,51500010,Other income IC
+296,51510000,Inc.packag./freight
+297,51510010,Inc.pack./freight IC
+298,51580000,Revenues from auxiliary activities Young
+299,51580010,Revenues from auxiliary activities IC Yo
+300,51600000,Sales IT
+301,51600010,Sales IT IC
+302,54000000,Rent + Lease inc.
+303,54000010,Rent + Lease inc. IC
+304,54010000,LICENSE INC.
+305,54020000,COMMISSION INCOME
+306,54020010,COMMISSION INCOMIC
+307,54040000,Income from Holding
+308,54051000,Inc, damage comp pro
+309,54051010,Inc, dam.comp pro IC
+310,54060000,Consulting Income
+311,54110000,Income, company car utilisation
+312,54120000,Withholding employees,company car with s
+313,54121000,withholding employee,company car without
+314,54130000,Income advertising m
+315,54190000,Income, minimal differences
+316,57900000,Other Income
+317,57900010,Other Income IC
+318,60000009,Cash discount income
+319,60030000,CONSUMP.LOAD.EQUIP
+320,60101000,Consumption trade goods thirt party deal
+321,60108000,Consumption trade goods Young Drive
+322,60200000,invent transf.raw
+323,60201000,INVENT TRANSF.PACKG
+324,60202000,INVENT TRANSF.OP.SUP
+325,60203000,INVENT TRANS.LOAD.EQ
+326,60205000,INVENT TRANSF.MAINT
+327,60209100,INVENT TRANSF.DEV.ST
+328,60210000,INVENT TRANSF.TRADE
+331,60211000,invent transf.semi
+332,60212000,Invent transf.fin
+333,60218000,Exp. inventories transfer trade goods Yo
+334,60300005,Exp. price difference raw mat. (manual p
+335,60300800,Exp. price difference raw material texti
+336,60301000,Price diff.packg
+337,60302000,Price dif.op.supp
+338,60303000,PRICE DIF.LOAD.EQUIP
+339,60305000,PRICE DIF.MAINT
+340,60306000,Price diff Purch. Mat. - wrong val.class
+341,60306100,Price dif. Purch. Fin Goods- wrong valua
+342,60310000,Price dif.trade gds
+343,60310200,Exp. price difference trading goods incl
+344,60310300,Repack.purch.material�Prod Variance Act.
+345,60310320,Price diff.purch.mat.packed-wrong val.cl
+346,60311000,Semi-finished mat. � product.variance Ac
+347,60312000,Finished Material � Prod.Variance Act. t
+348,60318000,Exp. price difference trading goods Youn
+349,60391000,Onetime paym suppl qty discounts, bonus
+350,60400000,stock diff.raw mat
+351,60400090,adjustment stock taking raw material
+352,60401000,stock diff.packg
+353,60401090,adjustment stock taking packaging materi
+354,60402000,STOCK DIF.OPER.SUPPL
+355,60403000,STOCKDIF.LOAD.EQUIP
+356,60405000,STOCKDIFF.MAINT
+357,60409100,STOCK DIFF.DEVEL.STO
+358,60410000,stockdif.trade gds
+359,60410090,adjustment stock taking trading goods
+362,60411000,stockdif.semi.gds
+363,60411090,adjustment stock taking semifinished goo
+364,60412000,stockdiff.fin.gds
+365,60412090,adjustment stock taking finished goods
+366,60418000,Diff. from stock taking trading goods Yo
+367,60500000,Revalu.raw mat
+368,60501000,Revalu.packg.
+369,60502000,REVALU.OP.SUPP
+370,60503000,REVALU.LOAD.EQUIP
+371,60505000,REVALU.MAINT
+372,60510000,Revalu.trade gds
+375,60511000,Revalu.semi.gds
+376,60512000,Revalu.fin.gds
+377,60518000,Expense revaluation trading goods Young
+378,60730000,freight inward,transport. empties,area f
+379,60731000,freight inward, transport. of empties,su
+380,60800000,Electricity
+381,60810000,gas
+382,60820000,water
+383,60830000,Heating oil/Wood
+384,60840000,fuel testing
+387,61001000,Ext.devel.capacity
+388,61011000,Developm.mat. n.proj
+389,61123000,Costs repair/rework
+390,61123100,reparation/rework engineering faulty
+391,61124000,HIRED LABOR WORKERS
+392,61126000,additional handling
+393,61126010,additional handling fee customer IC
+394,61128000,other expenses warra
+395,61128010,other expenses warranty IC
+396,61128100,other expenses goodwill
+397,61128200,expenses lump sum warranty
+398,61420000,returned empties from customer
+399,61500000,distribution commission
+400,61500010,distribution commission IC
+401,61600000,Maintenance building
+402,61601000,cleaning
+403,61602000,Waste disposal
+404,61603000,Maint.AppurtenStr
+405,61610000,Maint Fact & Off Equ
+406,61612000,Factory a.office e.
+407,61640000,maintenance asset op
+408,61710000,artists security contribution
+409,61800000,Outsourcing services Direct Labour
+410,62000000,Direct wages
+411,63000000,Salary - Full Time
+412,63010000,temporary  commercial employees and stud
+414,63100000,Vacation Bonus Salar
+415,63110000,allocation to accrual for holiday entitl
+416,63200000,X-mas Bonus (Salary)
+417,63220000,variable debit/credit-productive
+418,63300000,taxfree compensation
+419,63400000,Overtime payment salary
+420,63500000,salary incidental expenses
+421,63600000,transportation costs refund
+422,63800000,Terminatio Pay
+423,63900000,management bonus
+424,64100000,social security cont
+425,64110000,social security contributions, salary, t
+426,64200000,contributions towards employers liabilit
+427,64300000,expenses partial retirement
+428,64400000,retirement pension p
+429,64410000,allocation to reserves for pension payme
+430,64420000,pension assurance corporation payment
+432,64510000,UNITCONTRIBSOCINSUR
+433,64511000,Other expenses for social insurances
+434,64520000,Company's contribution to the unemployme
+435,64530000,COMPCONTRIBHEALTHSEC
+455,66000000,exp.staff recruitmet
+456,66010000,moving expenses
+457,66020000,moving expenses empoyee
+458,66200000,company doctor,newsp
+459,66300000,accident insurance
+460,66400000,further education on
+461,66500000,general benefits
+462,66510000,individual benefits
+463,66511000,individual benefits employees taxable
+464,66512000,currency benefits employees
+465,66520000,base for VAT - vehicle usage
+466,66600000,profit-sharing
+467,66700000,cafeteria
+468,66710000,Expenses with mealtickets given to emplo
+469,66800000,adjustment expenses, severely handicappe
+470,66900000,miscellaneous staff
+471,66910000,transportation costs refund
+472,67000000,building rent
+473,67001000,rent guesthouse
+474,67010000,rent plant vehicles
+475,67031000,data process/rent ha
+476,67040000,rent for exhibition booths
+477,67050000,rent office equipmen
+478,67100000,leasing motor vehicl
+479,67110000,leasing office equipment
+480,67120000,leasing technical equipment
+481,67200000,Licenses and concessions before SOP
+482,67201000,Licence Expenses IP
+483,67210000,inventor's remuneration
+484,67300000,fees
+485,67301000,HOLDING FEE
+486,67310000,expense small diff.
+487,67600000,Temporary employees
+488,67700000,Tax consulting
+489,67701000,consultancy and audi
+490,67710000,legal consultancy
+491,67711000,consultancy patent Europe
+492,67712000,consultancy patent ex Europe
+493,67713000,consultancy patent prolongation fee
+494,67714000,consultancy patent administration fee
+495,67800000,director`s remuneration
+496,68000000,office supplies
+497,68010000,Forms
+498,68100000,technical literature
+499,68200000,telecommunication
+500,68210000,postage
+501,68220000,costs mobile-phone
+502,68700000,advertisement
+503,68701000,media advertisement expenses
+504,68702000,expenses for customer training
+505,68703000,expenses exhibition stand
+506,68710000,presents <= 35Euro
+507,68711000,presents >  35 Euro non empoyees
+508,68712000,operative to decide benefits non employe
+510,68740000,agency expenses
+511,68800000,donations
+512,68900000,miscellaneous expens
+513,68901000,MISC. EXPENSES N.D.
+514,68910000,Indemnities, fines, penalties
+516,69000000,Fire insurance building
+517,69010000,Public liability/environmental insurance
+518,69020000,goods in transit insurance
+519,69030000,TRADE CREDIT INSURAN
+520,69090000,miscellaneous insura
+521,69100000,motor vehicle insura
+522,69200000,general constributions to employers orga
+523,69300000,loss resulting from damage cases
+524,69900000,expenses in other accounting periods
+525,70500000,real estate tax
+526,70600000,motor vehicle  tax
+527,70700000,export duty tax
+528,71400000,exchange losses
+530,90004010,IT-hours intern
+531,90004040,DP-hours (Department SAP)
+532,90004100,Allocation IT-Product 100%
+533,90004110,Allocation IT-Product 105%
+534,90004120,Allocation IT-Product 120%
+535,90004200,Allocation IT-Projects (planning)
+536,92000310,Sett. CO miscel. internal Orders
+537,99400000,Alloc other Administration expenses
+538,99490000,Alloc IT G&A
+540,754071000,Tool gain < 200 TEUR
+541,769600000,loss from asset sale

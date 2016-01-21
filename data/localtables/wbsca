@@ -1,0 +1,119 @@
+0,,,
+1,-10,Project support functions,
+2,-10-01,ASQE,ASQE
+3,-10-02,Quality Assurance,
+4,-10-03,Plant Industrial Engineering,
+5,-10-04,Process & Industrial Engineering,
+6,-10-05,Purchasing,
+7,-10-06,Supply Chain Management,
+8,-10-07,Product Costing,
+9,-10-08,Analysis & Metrology,
+10,-20,R&D,R&D
+11,-20-01,Income R&D,R&D
+12,-20-02,Expenses R&D,R&D
+13,-20-02-01,Project Management / Administration,PM
+14,-20-02-02,Assembly / working packages,R&D
+15,-20-02-02-01,Main Assembly/ working package 1,R&D
+16,-20-02-02-10,DMU  Data Management V5 VPM,R&D
+17,-20-02-02-11,Tolerance Mgmt. Gap and Flash analysis,R&D
+18,-20-02-02-12,FMEA,R&D
+19,-20-02-02-13,FEM / Simulation,R&D
+20,-20-02-03,MCC Elektronic,R&D
+21,-20-02-04,Testing,R&D
+22,-30,Prototyping / Tryout,R&D
+23,-30-01,Income & expenses of prototypes,R&D
+24,-30-02,Income & expenses of prototype-tools,R&D
+25,-30-03,Income & expenses of tryout / PPAP,PM
+26,-40,Tooling,Tooling
+27,-40-01,Income tooling,Tooling
+28,-40-02,Expenses tooling - owner customer,Tooling
+29,-40-02-01,Location: Supplier,Tooling
+30,-40-02-02,Location: Intercompany,Tooling
+31,-40-02-03,Location: Plant 1,Tooling
+32,-40-02-04,Location: Plant 2,Tooling
+33,-40-03,Expenses tooling - owner Webasto,Tooling
+34,-40-03-01,Location: Supplier,Tooling
+35,-40-03-02,Location: Intercompany,Tooling
+36,-40-03-03,Location: Plant 1,Tooling
+37,-40-03-04,Location: Plant 2,Tooling
+38,-60,Ramp up,
+39,-60-01,Income Ramp up,
+40,-60-02,Expenses Ramp up,
+41,-60-02-01,Exp.add. material consumption Purchasing,
+42,-60-02-02,Exp.add. material consumption Production,
+43,-60-02-03,Add. hours & costs intern./extern. staff,
+44,-90,Depreciation / Licenses / etc.,
+45,-90-01,Depreciation R&D,
+46,-10-09,Sales,
+47,-70,Tool modification & maintenance,
+48,-70-01,Income tool modification,
+49,-70-02,Expenses tool modification,
+50,-70-03,Expenses tool maintenance,
+51,-90-02,Intercompany Licenses /External Licenses,
+52,-90-03,IC-Charging Serial Support,
+53,-10,PD unspecific,
+54,-10-10,Project support functions,
+55,-10-10-01,ASQE,ASQE
+56,-10-10-02,Quality Assurance,
+57,-10-10-03,Plant Industrial Engineering (ME),
+58,-10-10-04,Process & Industrial Engineering,
+59,-10-10-05,Purchasing,
+60,-10-10-06,Supply Chain Management,
+61,-10-10-07,Product Costing,
+62,-10-10-08,Analysis & Metrology,
+63,-10-20,R&D,R&D
+64,-10-30,Prototyping / Tryout,R&D
+65,-10-40,Tooling,Tooling
+66,-20,PD specific Projects,
+67,-20-01,Project 1,
+68,-20-01-10,Project support functions,
+69,-20-01-10-01,ASQE,ASQE
+70,-20-01-10-02,Quality Assurance,
+71,-20-01-10-03,Plant Industrial Engineering (ME),
+72,-20-01-10-04,Process & Industrial Engineering,
+73,-20-01-10-05,Purchasing,
+74,-20-01-10-06,Supply Chain Management,
+75,-20-01-10-07,Product Costing,
+76,-20-01-10-08,Analysis & Metrology,
+77,-20-01-20,R&D,R&D
+78,-20-01-30,Prototyping / Tryout,R&D
+79,-20-01-40,Tooling,Tooling
+80,-20-02,Project 2,
+81,-20-02-10,Project support functions,
+82,-20-02-10-01,ASQE,
+83,-20-02-10-02,Quality Assurance,
+84,-20-02-10-03,Plant Industrial Engineering (ME),
+85,-20-02-10-04,Process & Industrial Engineering,
+86,-20-02-10-05,Purchasing,
+87,-20-02-10-06,Supply Chain Management,
+88,-20-02-10-07,Product Costing,
+89,-20-02-10-08,Analysis & Metrology,
+90,-20-02-20,R&D,R&D
+91,-20-02-30,Prototyping / Tryout,R&D
+92,-20-02-40,Tooling,Tooling
+93,-20-03,Project 3,
+94,-20-03-10,Project support functions,
+95,-20-03-10-01,ASQE,ASQE
+96,-20-03-10-02,Quality Assurance,
+97,-20-03-10-03,Plant Industrial Engineering (ME),
+98,-20-03-10-04,Process & Industrial Engineering,
+99,-20-03-10-05,Purchasing,
+100,-20-03-10-06,Supply Chain Management,
+101,-20-03-10-07,Product Costing,
+102,-20-03-10-08,Analysis & Metrology,
+103,-20-03-20,R&D,R&D
+104,-20-03-30,Prototyping / Tryout,R&D
+105,-20-03-40,Tooling,Tooling
+106,-20-04,Project 4,
+107,-20-04-10,Project support functions,
+108,-20-04-10-01,ASQE,ASQE
+109,-20-04-10-02,Quality Assurance,
+110,-20-04-10-03,Plant Industrial Engineering (ME),
+111,-20-04-10-04,Process & Industrial Engineering,
+112,-20-04-10-05,Purchasing,
+113,-20-04-10-06,Supply Chain Management,
+114,-20-04-10-07,Product Costing,
+115,-20-04-10-08,Analysis & Metrology,
+116,-20-04-20,R&D,R&D
+117,-20-04-30,Prototyping / Tryout,R&D
+118,-20-04-40,Tooling,Tooling

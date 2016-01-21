@@ -1,0 +1,533 @@
+1,06_GM D2XX_01_TSR Delta II,janv-14,,,0,0,2,1,753
+2,06_SGM D2SB_06_OSR -Novum,janv-14,,,0,0,2,2,751
+3,60_FOTON S700_06_OSR -Novum,janv-14,,,0,0,2,3,751
+4,21_CAPSA B754_06_OSR -Novum,janv-14,,,0,0,2,4,751
+5,06_SGM K211_01_TSR D2XX,janv-14,,,0,0,2,2,752
+6,60_GWM CHB031_06_OSR -Novum,janv-14,,,0,0,2,5,751
+7,24_CJLR L538 _03_FTM,janv-14,,,0,0,2,6,751
+8,21_DPCA G25_01_TSR-GTS 0,janv-14,,,0,0,2,7,752
+9,06_SGM E2XX TSR_01_TSR-FAM3,janv-14,,,0,0,2,2,751
+10,06_GM O1SL_01_TSR -ATS,janv-14,,,0,0,2,1,751
+11,60_Zotye A02_01_TSR -GTS 2,janv-14,,,0,0,2,8,751
+12,60_Zotye B01_01_TSR-GTS 2,janv-14,,,0,0,2,8,751
+13,21_DPCA BZ3_01_TSR-FAM1,janv-14,,,0,0,2,7,752
+14,60_CA S401_06_OSR-Novum,janv-14,,,0,0,2,9,751
+15,10_VW378CS_06_OSR-Novum,janv-14,,,0,0,2,10,751
+16,10_VW511_06_OSR-Novum,janv-14,,,0,0,2,10,751
+17,14_Chrysler K4_06_ISR-GST-3,janv-14,,,0,0,2,11,752
+18,60_GWM CHK011_06_OSR-Novum,janv-14,,,0,0,2,5,751
+19,60_Zotye B01_06_OSR-Novum,janv-14,,,0,0,2,8,751
+20,60_Zotye T22_06_OSR-Novum,janv-14,,,0,0,2,8,751
+21,21_DPCA X81_06_SP-ASP,janv-14,,,0,0,2,7,752
+22,21_DPCA G95_01_TSR-GTS 2,janv-14,,,0,0,2,7,752
+23,06_SGM K216_01_TSR-DeltaII,janv-14,,,0,0,2,2,752
+24,06_SGM D2UC BLOSR_06_OSR-Novum,janv-14,,,0,0,2,2,752
+25,60_GWM CHB121_06_OSR-Novum,janv-14,,,0,0,2,5,751
+26,06_D2UC_BL-IS1_DeltaII,janv-14,,,0,0,2,2,751
+27,60_Zotye B12_06_OSR -Novum,janv-14,,,0,0,2,8,751
+28,60_Zotye B15_BL-OS2_Novum,janv-14,,,0,0,2,8,751
+29,02_CAF C490_BL-TI1_TSR-GTS2,janv-14,,,0,0,2,12,756
+30,60_B60X_BL-TI1_TSR-GTS2,janv-14,,,0,0,2,13,756
+31,60_ChangAn S301 TS_BL-TI1_TSR-GTS2,janv-14,,,0,0,2,9,756
+32,21_ DPCA P84C _BL-FT2_OSR-Novum 1,janv-14,,,0,0,2,7,756
+33,21_ DPCA P84C _BL-FT2_OSR-Novum 2,janv-14,,,0,0,1,7,756
+34,10_VW4810 CN_KL_BL-OS2_OSR -Novum,janv-14,,,0,0,2,10,754
+35,10_VW3205 CN_KA _BL-OS2_OSR-Novum,janv-14,,,0,0,2,10,754
+36,32_FCC J31TC _BL-TI1_TSR-GTSR,janv-14,,,0,0,2,14,754
+37,04_BBAC V213 MASD_TL-OS3_OSR -DAG 1,janv-14,,,0,0,2,15,754
+38,04_BBAC V213 MASD_TL-OS3_OSR -DAG 2,janv-14,,,0,0,2,15,754
+39,04_BBAC V213 MASD_TL-OS3_OSR -DAG 3,janv-14,,,0,0,2,15,754
+40,32_FCC J5LA _BL-TI1_TSR-GTSRII 1,janv-14,,,0,0,2,14,754
+41,32_FCC J5LA _BL-TI1_TSR-GTSRII 2,janv-14,,,0,0,2,14,754
+42,03_BBA G38 TSR _BL-IS1_TSR-ATS,janv-14,,,0,0,2,16,754
+43,03_BBA G38 PSD _BL-OS2_-ASP 1,janv-14,,,0,0,2,16,753
+44,03_BBA G38 PSD _BL-OS2_-ASP 2,janv-14,,,0,0,2,16,754
+45,10_AU491-1CN TS A4_BL-IS1_TSR-FAM4,janv-14,,,0,0,2,17,754
+46,10_AU491-1CNPSDA4_BL-OS2_OSR-Novum,janv-14,,,0,0,2,17,754
+47,60_PSD_BL Roller Blind Assy,janv-14,,,0,0,2,18,754
+48,60_GWM CH051X_TL-FT1_FTM,janv-14,,,0,0,2,5,751
+49,60_BAIC YinXiang C20_BL-OS2 1,janv-14,,,0,0,2,19,756
+50,60_BAIC YinXiang C20_BL-OS2 2,janv-14,,,0,0,2,19,756
+51,10_VW416CS_BL-OS2,janv-14,,,0,0,2,10,751
+52,60_GWM CH171_BL-OS2,janv-14,,,0,0,2,5,751
+53,DPCA G59_Plan,janv-14,,,0,0,1,7,751
+54,FOTON S510520_Plan,janv-14,,,0,0,1,3,751
+55,60_Foton S500_BL-OS2,janv-14,,,0,0,2,3,751
+56,GWM CHB071_Plan ,janv-14,,,0,0,2,5,751
+57,GWM CHB111_Plan ,janv-14,,,0,0,7,5,751
+58,GWM CHB041B_Plan ,janv-14,,,0,0,7,5,751
+59,GWM CHK111_Plan ,janv-14,,,0,0,7,5,751
+60,60_GWM CHB131_BL-OS2_FTM,janv-14,,,0,0,2,5,751
+61,SGM E2SBJO_Plan 40L,janv-14,,,0,0,1,2,751
+62,SGM A2XL_Plan ,janv-14,,,0,0,7,2,751
+63,SGM E2UL_Plan 40L,janv-14,,,0,0,1,2,751
+64,SVW MQB A0 10_SVW SH MQB A0 Plan ,janv-14,,,0,0,7,20,751
+65,SVW VW260_Plan ,janv-14,,,0,0,7,20,751
+66,JMC E33_Plan 0.2,janv-14,,,0,0,1,21,751
+67,SGM D3XX_Plan ,janv-14,,,0,0,7,2,753
+68,SGM K256_Plan ,janv-14,,,0,0,7,2,752
+69,SGM K3_Plan ,janv-14,,,0,0,7,2,752
+70,DPCA R83_Plan  1,janv-14,,,0,0,7,7,752
+71,DPCA R83_Plan  2,janv-14,,,0,0,7,7,752
+72,CAPSA X83 TLSP 21_CAPSA X83 TLSP_Dummy_plan 1,janv-14,,,0,0,7,4,752
+73,CAPSA X83 TLSP 21_CAPSA X83 TLSP_Dummy_plan 2,janv-14,,,0,0,7,4,752
+74, CAF B500_Plan ,janv-14,,,0,0,7,12,756
+75, ChangAn S301 panorama_Plan 0.4,janv-14,,,0,0,1,9,756
+76, CA C301 TLOSR_Plan ,janv-14,,,0,0,7,9,756
+77, CAF C519_TL-SP2 1,janv-14,,,0,0,7,12,756
+78, CAF C519_TL-SP2 2,janv-14,,,0,0,7,12,756
+79,Sichuan Automobile B65X_Plan 0.4,janv-14,,,0,0,1,13,756
+80,BBA G28_ Plan ,janv-14,,,0,0,7,16,754
+81,BBAC V177_Plan 0.4,janv-14,,,0,0,1,15,754
+82,Denza,janv-14,,,0,0,1,22,754
+83,60_Denza Tiger_BL-OS2_Novum_DV_SH,janv-14,,,0,0,2,22,751
+84, FAW-VW DY_Plan ,janv-14,,,0,0,7,23,754
+85, FAW-VW AU276_Plan 1,janv-14,,,0,0,7,23,760
+86, FAW-VW AU276_Plan 2,janv-14,,,0,0,7,23,754
+87,FCC D058_Plan ,janv-14,,,0,0,7,14,754
+88,Volvo K316_Plan 0.4 1,janv-14,,,0,0,1,24,756
+89,Volvo K316_Plan 0.4 2,janv-14,,,0,0,1,24,756
+90,085_TSR-GTS-R3_PD_2011_10_SF,janv-14,,,0,0,3,25,750
+91,085_DFM_PD_2013_05_SF,janv-14,,,0,0,3,25,750
+92,085_WST+ PU process_PD_2013_09_SF,janv-14,,,0,0,3,25,750
+93,085_Master drawings CN_PD_2014_03_SF,janv-14,,,0,0,3,25,750
+94,085_CAD templateFAM1-3_01_TSR-FAM3_PD_SF,janv-14,,,0,0,3,25,750
+95,085_Fabric localization_02_PD_SF,janv-14,,,0,0,3,25,750
+96,085_China R&D other predevelopment_SF,janv-14,,,0,0,3,25,750
+97,SVW SK481CS,janv-14,,,0,0,2,20,760
+98,FAW-VW VW379CN 1,janv-14,,,0,0,2,26,760
+99,FAW-VW VW379CN 2,janv-14,,,0,0,2,26,760
+100,FAW-VW VW483_0 CN_KCC,janv-14,,,0,0,2,26,760
+101,FAW-VW VW484CN 2,janv-14,,,0,0,2,26,760
+102,Chrysler MP553,janv-14,,,0,0,2,11,760
+103,Chrysler Jeep 523,janv-14,,,0,0,2,11,760
+104,SGM E2SB BLOSR_Plan 0.2,janv-14,,,0,0,1,2,751
+105,SGM D2LC-S_Plan ,janv-14,,,0,0,7,2,753
+106,SGM K256 TSR_Plan 40H,janv-14,,,0,0,1,2,752
+107,GEM-SUV&MPV&CUV BLOSR_Plan 40H,janv-14,,,0,0,1,2,751
+108,GEM-SUV&MPV&CUV TSR_Plan 40H,janv-14,,,0,0,1,2,751
+109,9BUX_Plan 40H,janv-14,,,0,0,1,2,753
+110,K226_Plan 40H,janv-14,,,0,0,1,2,752
+111,K221_Plan ,janv-14,,,0,0,7,2,752
+112,K217_Plan 40H,janv-14,,,0,0,1,2,752
+113,CAPSA B753R_AQ WH,janv-14,,,0,0,1,4,752
+114,CAPSA B753R_DV GZ,janv-14,,,0,0,2,4,760
+115,CAPSA X74_Plan ,janv-14,,,0,0,7,4,760
+116,SMC AS22_Plan 0.4,janv-14,,,0,0,1,27,751
+117,FAW-VW AU426_Plan 0.2,janv-14,,,0,0,1,26,754
+118,FAW-VW A-SUV_Plan ,janv-14,,,0,0,7,26,754
+119,FAW-VW 371,janv-14,,,0,0,7,26,756
+120,FAW-VW 371-2,janv-14,,,0,0,7,26,756
+121,BBAC X247_Plan ,janv-14,,,0,0,1,15,754
+122,BBAC H247_Plan ,janv-14,,,0,0,7,15,754
+123,BBA G28 BLOSR_Plan 0.4,janv-14,,,0,0,1,16,754
+124,BBA G20_Plan ,janv-14,,,0,0,7,16,754
+125,XD41_Plan 0.4,janv-14,,,0,0,1,28,751
+126,GWM CH171B_Plan ,janv-14,,,0,0,7,5,751
+127,GWM CHB121B_Plan 40H,janv-14,,,0,0,1,5,751
+128,GWM CH051XB_Plan 40H,janv-14,,,0,0,1,5,751
+129,FOTON S300,janv-14,,,0,0,7,3,751
+130,Zotye B12 FTM_Plan 0.2,janv-14,,,0,0,1,8,751
+131,Geely FE-8_Plan 0.2,janv-14,,,0,0,1,29,751
+132,Geely FE-9_Plan 0.2,janv-14,,,0,0,1,29,751
+133,DPCA X7RR_Plan ,janv-14,,,0,0,7,7,752
+134,CJLR NG3_Plan 0.4,janv-14,,,0,0,1,6,751
+135,Chrysler K8(K4-LWB)_SH AQ,janv-14,,,0,0,1,11,751
+136,Chrysler K8(K4-LWB)_WH DV,janv-14,,,0,0,7,11,752
+137,Hyundai CG_Plan ,janv-14,,,0,0,7,30,756
+138,Hyundai CB_Plan ,janv-14,,,0,0,7,30,756
+139,Zotye B11 FTM_Plan 0.2,janv-14,,,0,0,1,8,751
+140,CMA J72Y,janv-14,,,0,0,7,31,751
+141,VW311 2(2)_Plan ,janv-14,,,0,0,7,26,754
+142,085_Benchmark_11,janv-14,,,0,0,3,25,750
+143,085_CNDADMIN_11,janv-14,,,0,0,3,25,750
+144,085_BL-OS2 Classic_11,janv-14,,,0,0,3,25,750
+145,06_Delta II_01_TSR-Delta II_SP_SH,janv-14,,,0,0,4,2,751
+146,CAPSA B751,janv-14,,,0,0,1,4,751
+147,DFYL NVU2,janv-14,,,0,0,1,32,751
+148,FOTON S710,janv-14,,,0,0,1,3,751
+149,SGM S4_SH AQ,janv-14,,,0,0,1,2,751
+150,SGM S4_SY DV,janv-14,,,0,0,7,2,753
+151,J64X,janv-14,,,0,0,1,31,751
+152,FAW-VW MQB A0,janv-14,,,0,0,1,26,754
+153,B479,janv-14,,,0,0,1,33,756
+154,I06,janv-14,,,0,0,1,33,756
+155,Motor change from Mitsuba to Nidec,janv-14,,,0,0,1,25,756
+156,C1 front frame material change supplier,janv-14,,,0,0,1,25,756
+157,10_PAD+_WRSGZ_DV_ICO 1,janv-14,,,0,0,2,26,760
+158,10_PAD+_WRSGZ_DV_ICO 2,janv-14,,,0,0,2,26,760
+159,Chrysler MP523,janv-14,,,0,0,1,34,760
+160,Project 2,janv-14,,,0,0,1,34,760
+161,60_Zotye B11_06_OSR -Novum_SP_SH,janv-14,,,0,0,4,8,751
+162,06_GM 9BXX_Dummy plan_DV_SY 1,janv-14,,,0,0,2,2,753
+163,06_GM 9BXX_Dummy plan_DV_SY 2,janv-14,,,0,0,2,2,753
+164,21_DPCA G95 TLSP_DUMMY PLAN_DV_SH 1,janv-14,,,0,0,2,7,752
+165,21_DPCA G95 TLSP_DUMMY PLAN_DV_SH 2,janv-14,,,0,0,2,7,752
+166,60_CHB041B_SP_SH,janv-14,,,0,0,4,5,751
+167,60_CHB071_SP_SH,janv-14,,,0,0,4,5,751
+168,10_FAW-VW NCS_BL-TI1_GSS_SP_CQ 1,janv-14,,,0,0,4,26,756
+169,10_FAW-VW NCS_BL-TI1_GSS_SP_CQ 2,janv-14,,,0,0,4,26,756
+170,10_FAW-VW NCS_BL-TI1_GSS_SP_CQ 3,janv-14,,,0,0,4,26,756
+171,10_FAW-VW NCS_BL-TI1_GSS_SP_CQ 4,janv-14,,,0,0,4,26,756
+172,10_FAW-VW NCS_BL-TI1_GSS_SP_CQ 5,janv-14,,,0,0,4,26,756
+173,02_ CMA B515_BL-TI1_TSR-GTS1_SP_CQ 1,janv-14,,,0,0,4,31,756
+174,02_ CMA B515_BL-TI1_TSR-GTS1_SP_CQ 2,janv-14,,,0,0,4,31,756
+175,02_ CMA B515_BL-TI1_TSR-GTS1_SP_CQ 3,janv-14,,,0,0,4,31,756
+176,10_Motor change Mitsuba to Nidec_SP_CQ,janv-14,,,0,0,4,12,756
+177,02_C1 front frame TICONA to Jinfa_SP_CQ,janv-14,,,0,0,4,25,756
+178,03_BBA F18 _BL-IS1_TSR-ATS_SP_CC 1,janv-14,,,0,0,4,16,754
+179,03_BBA F18 _BL-IS1_TSR-ATS_SP_CC 2,janv-14,,,0,0,4,16,754
+180,03_BBA F18 _BL-IS1_TSR-ATS_SP_CC 3,janv-14,,,0,0,4,16,754
+181,03_BBA F18 _BL-IS1_TSR-ATS_SP_CC 4,janv-14,,,0,0,4,16,754
+182,03_BBA F18 _BL-IS1_TSR-ATS_SP_CC 5,janv-14,,,0,0,4,16,754
+183,10_AudiC7Panorama_BL-OS2_OSR-Novum_SP_CC 1,janv-14,,,0,0,4,26,754
+184,10_AudiC7Panorama_BL-OS2_OSR-Novum_SP_CC 2,janv-14,,,0,0,4,26,754
+185,03_BMW F30 _BL-IS1_TSR-ATS_SP_CC 1,janv-14,,,0,0,4,16,754
+186,03_BMW F30 _BL-IS1_TSR-ATS_SP_CC 2,janv-14,,,0,0,4,16,754
+187,03_BMW F30 _BL-IS1_TSR-ATS_SP_CC 3,janv-14,,,0,0,4,16,754
+188,03_BMW F30 _BL-IS1_TSR-ATS_SP_CC 4,janv-14,,,0,0,4,16,754
+189,03_BMW F30 _BL-IS1_TSR-ATS_SP_CC 5,janv-14,,,0,0,4,16,754
+190,03_BMW F30 _BL-IS1_TSR-ATS_SP_CC 6,janv-14,,,0,0,4,16,754
+191,04_BBAC V213 TSR _BL-IS1_TSR-ATS2_SP_CC 1,janv-14,,,0,0,4,15,754
+192,04_BBAC V213 TSR _BL-IS1_TSR-ATS2_SP_CC 2,janv-14,,,0,0,4,15,754
+193,04_BBAC V213 TSR _BL-IS1_TSR-ATS2_SP_CC 3,janv-14,,,0,0,4,15,754
+194,CFMA B479(Fiesta Successor),janv-14,,,0,0,1,33,756
+195,CFMA I06,janv-14,,,0,0,1,33,756
+196,Common Series support project_SP_CQ,janv-14,,,0,0,4,25,756
+197,41_Volvo L421_BL-TI1_TSR-GTS2_SP_CQ 1,janv-14,,,0,0,4,24,756
+198,41_Volvo L421_BL-TI1_TSR-GTS2_SP_CQ 2,janv-14,,,0,0,4,24,756
+199,DPCA T31,janv-14,,,0,0,1,7,752
+200,B562,janv-14,,,0,0,1,33,756
+201,Chery T31,janv-14,,,0,0,1,35,751
+202,Common Series support project_SP_CC,janv-14,,,0,0,4,25,754
+203,04_BBAC BR205 _BL-IS1_TSR-ATS2_SP_CC,janv-14,,,0,0,4,15,754
+204,Common Series support project_SP_SH,janv-14,,,0,0,4,25,751
+205,Common Series project_SP_SH,janv-14,,,0,0,4,25,751
+206,SMC IP21 sucessor,janv-14,,,0,0,1,27,751
+207,21_DPCA T93_01_TSR-GTS 0_DV_WH,janv-14,,,0,0,4,7,752
+208,DFPV D27 1,janv-14,,,0,0,1,36,752
+209,DFPV D27 2,janv-14,,,0,0,1,36,752
+210,DFPV F37 1,janv-14,,,0,0,1,36,752
+211,DFPV F37 2,janv-14,,,0,0,1,36,752
+212,60_BAIC C60_01_TSR -GTS 2_DV_SH,janv-14,,,0,0,4,19,751
+213,06_GSV T300_TSR_GTS-0_SP_SH,janv-14,,,0,0,4,2,751
+214,Geely CX11,janv-14,,,0,0,1,29,751
+215,CAPSA B81,janv-14,,,0,0,1,4,751
+216,Chery G2N,janv-14,,,0,0,1,35,751
+217,Unknown 38-10-20,janv-14,,,0,0,1,5,751
+218,GWM CHK041,janv-14,,,0,0,1,5,751
+219,GWM CHB011 N,janv-14,,,0,0,1,5,751
+220,GWM CHB012 C50 successor,janv-14,,,0,0,1,5,751
+221,GWM CH041N,janv-14,,,0,0,1,5,751
+222,GWM CH071,janv-14,,,0,0,1,5,751
+223,GWM CHB061,janv-14,,,0,0,1,5,751
+224,GWM CHK051,janv-14,,,0,0,1,5,751
+225,SGM E18 N,janv-14,,,0,0,1,2,751
+226,SGM 358,janv-14,,,0,0,1,2,751
+227,R&D,janv-14,,,0,0,1,20,751
+228,SVW Touran MQB,janv-14,,,0,0,1,20,751
+229,SK326_1 CS _ Skoda A SUV,janv-14,,,0,0,1,20,751
+230,R&D,janv-14,,,0,0,1,8,751
+231,Zotye T23,janv-14,,,0,0,1,8,751
+232,Zotye S21,janv-14,,,0,0,1,8,751
+233,Chrysler MP553,janv-14,,,0,0,1,34,751
+234,J68CC FL,janv-14,,,0,0,1,31,751
+235,BBAC W176,janv-14,,,0,0,1,15,754
+236,BBAC BR247_1,janv-14,,,0,0,2,15,754
+237,DOO3N,janv-14,,,0,0,1,14,754
+238,J83C_ MPV,janv-14,,,0,0,1,14,754
+239,J31 _ SUV,janv-14,,,0,0,1,14,754
+240,FCC H SUV,janv-14,,,0,0,1,14,754
+241,Project support functions,janv-14,,,0,0,1,26,754
+242,VW484 CC NF,janv-14,,,0,0,1,26,754
+243,FAW-VW New Bora Derivat,janv-14,,,0,0,1,26,754
+244,AU491 TS 1,janv-14,,,0,0,1,26,754
+245,AU491 TS 2,janv-14,,,0,0,1,26,754
+246,Project support functions,janv-14,,,0,0,1,16,754
+247,R&D,janv-14,,,0,0,1,16,754
+248,FAW-VW Sagitar(Bora A5),janv-14,,,0,0,1,26,754
+249,Audi C6(Glass),janv-14,,,0,0,1,26,754
+250,Audi C6(Solar),janv-14,,,0,0,1,26,754
+251,WRSH SVW Octavia,janv-14,,,0,0,1,20,754
+252,Golf A6,janv-14,,,0,0,1,26,754
+253,FAW-VW Audi Q3_AU316 1055-00,janv-14,,,0,0,1,26,754
+254,FAW-VW Audi Q3_AU316 1055-S0,janv-14,,,0,0,1,26,754
+255,VWKA FX4 ECU,janv-14,,,0,0,1,26,754
+256,Audi Q3 FGP new tooling,janv-14,,,0,0,1,26,754
+257,CA D101,janv-14,,,0,0,1,9,756
+258,CA C131,janv-14,,,0,0,1,9,756
+259,CA S401 BLOSR,janv-14,,,0,0,1,9,756
+260,CA S401 T_S,janv-14,,,0,0,1,9,756
+261,CA B211,janv-14,,,0,0,1,9,756
+262,B516,janv-14,,,0,0,1,33,756
+263,Volvo V316,janv-14,,,0,0,1,24,756
+264,K413 (XC60),janv-14,,,0,0,1,24,756
+265,C307,janv-14,,,0,0,1,33,756
+266,CFMA P11,janv-14,,,0,0,1,33,756
+267,CD345,janv-14,,,0,0,1,31,756
+268,CFMA Volve Y483 2046-S1,janv-14,,,0,0,1,33,756
+269,CFMA Volvo Y483 2046-S2,janv-14,,,0,0,1,33,756
+270,C346,janv-14,,,0,0,1,31,756
+271,YOKOHAMA Glue material relocation,janv-14,,,0,0,1,37,756
+272,Project support functions,janv-14,,,0,0,1,26,760
+273,R&D,janv-14,,,0,0,1,2,752
+274,Hyundai ID,janv-14,,,0,0,1,30,756
+275,R&D,janv-14,,,0,0,1,30,756
+276,06_SGM A10_01_TSR -ATS_DV_SH,janv-14,,,0,0,2,2,751
+277,Zn-Cancelation_SP_SH,janv-14,,,0,0,4,38,751
+278,18_IP21 MCE_01_TSR-GTS-0_SP_SH,janv-14,,,0,0,4,27,751
+279,60_Zotye A01_01_TSR-GTS-2_SP_SH,janv-14,,,0,0,4,8,751
+280,02_CMA J68CC_01_TSR-GTS-2_PS_SH,janv-14,,,0,0,4,31,751
+281,02_CFMA J53R_01_TSR -GTS 2_SP_SH,janv-14,,,0,0,4,31,751
+282,21_DPCA B series_01_TSR_GTS-0_SP_WH,janv-14,,,0,0,4,7,752
+283,21_DPCA W23_01_TSR_GTS-2_SP_SH,janv-14,,,0,0,4,7,751
+284,All PU switch to aromatic_SP_SH,janv-14,,,0,0,4,38,751
+285,21_DPCA Change Motor to Nidec_SP_WH,janv-14,,,0,0,4,7,752
+286,21_DPCA X7_TSR_GTS-2_SP_WH,janv-14,,,0,0,4,7,752
+287,06_SGM 615_01_TSR -GTS-0_SP_SH,janv-14,,,0,0,4,2,751
+288,Project support functions,janv-14,,,0,0,1,15,754
+289,R&D,janv-14,,,0,0,1,15,754
+290,Project support functions,janv-14,,,0,0,1,14,754
+291,Project support functions,janv-14,,,0,0,1,26,754
+292,R&D,janv-14,,,0,0,1,26,754
+293,AU491-1 CN PSD A4,janv-14,,,0,0,1,26,754
+294,Project support functions,janv-14,,,0,0,1,15,754
+295,BBDC V212,janv-14,,,0,0,1,15,754
+296,BBAC V212 ECU software change,janv-14,,,0,0,1,15,754
+297,New Jetta 1,janv-14,,,0,0,1,26,754
+298,New Jetta 2,janv-14,,,0,0,1,26,754
+299,FCC J56S-P (Mazda),janv-14,,,0,0,1,14,754
+300,FCC J44AC(Mazda MPV),janv-14,,,0,0,1,14,754
+301,FCC J61AC(Mazda 6),janv-14,,,0,0,1,14,754
+302,FCC C302,janv-14,,,0,0,1,14,754
+303,R&D,janv-14,,,0,0,1,9,756
+304,Project support functions,janv-14,,,0,0,1,31,756
+305,R&D,janv-14,,,0,0,1,31,756
+306,Project 2,janv-14,,,0,0,1,31,756
+307,Project 3,janv-14,,,0,0,1,13,756
+308,10_VW250_01_TSR_KSS_SP_SH,janv-14,,,0,0,4,20,751
+309,21_DPCA TX3_01_TSR -GTS 2_SP_WH,janv-14,,,0,0,4,7,752
+310,21_DPCA T73_01_TSR -GTS 2_SP_WH,janv-14,,,0,0,4,7,752
+311,21_DPCA W23_01_TSR -GTS 2_SP_WH,janv-14,,,0,0,4,7,752
+312,21_DPCA T61_01_TSR -GTS 2_SP_WH,janv-14,,,0,0,4,7,752
+313,21_DPCA M3_M4_01_TSR -GTS 2_SP_WH,janv-14,,,0,0,4,7,752
+314,21_DPCA T88_01_TSR -GTS 2_SP_WH,janv-14,,,0,0,4,7,752
+315,Flex relocation_SP_SH,janv-14,,,0,0,4,38,751
+316,60_GWM CHB011_01_TSR-GTS-2_SP_SH,janv-14,,,0,0,4,5,751
+317,60_BAIC BC301_01_TSR_GTS-0_SP_SH,janv-14,,,0,0,4,19,751
+318,YOKOHAMA Glue material relocation_SP_SH,janv-14,,,0,0,4,38,751
+319,21_DPCA T88R_06_OSR -Novum_SP_SH,janv-14,,,0,0,4,7,751
+320,Project 4,janv-14,,,0,0,1,7,756
+321,60_BAIC C80G_01_TSR-GTS 2_SP_SH,janv-14,,,0,0,4,19,751
+322,10_FAW-VW New Bora _BL-IS1_GSS_SP_CC,janv-14,,,0,0,4,26,754
+323,10_FAW-VW Audi B8 _BL-IS1_GSS_SP_CC 1,janv-14,,,0,0,4,26,754
+324,10_FAW-VW Audi B8 _BL-IS1_GSS_SP_CC 2,janv-14,,,0,0,4,26,754
+325,10_FAW-VW Audi B8 _BL-IS1_GSS_SP_CC 3,janv-14,,,0,0,4,26,754
+326,10_FAW-VW Audi B8 _BL-IS1_GSS_SP_CC 4,janv-14,,,0,0,4,26,754
+327,10_FAW-VW Audi B8 _BL-IS1_GSS_SP_CC 5,janv-14,,,0,0,4,26,754
+328,32_FCC J61AC_BL-TI1_TSR-GTSRII_SP_CC,janv-14,,,0,0,4,14,754
+329,04_BBAC W204 _BL-IS1_TSR-ATS_SP_CC,janv-14,,,0,0,4,15,754
+330,04_BBAC V212 _TL-OS3_OSR-DAG_SP_CC,janv-14,,,0,0,4,15,754
+331,10_Golf A6 _BL-IS1_GSS_SP_CC,janv-14,,,0,0,4,26,754
+332,10_Magotan B7L(VW471CN)_BL-IS1_GSS_SP_CC 1,janv-14,,,0,0,4,26,754
+333,10_Magotan B7L(VW471CN)_BL-IS1_GSS_SP_CC 2,janv-14,,,0,0,4,26,754
+334,10_Magotan B7L(VW471CN)_BL-IS1_GSS_SP_CC 3,janv-14,,,0,0,4,26,754
+335,10_Magotan B7L(VW471CN)_BL-IS1_GSS_SP_CC 4,janv-14,,,0,0,4,26,754
+336,10_Audi  C7 T_S _BL-IS1_GSS_SP_CC 1,janv-14,,,0,0,4,26,754
+337,10_Audi  C7 T_S _BL-IS1_GSS_SP_CC 2,janv-14,,,0,0,4,26,754
+338,10_Audi  C7 T_S _BL-IS1_GSS_SP_CC 3,janv-14,,,0,0,4,26,754
+339,10_Audi  C7 T_S _BL-IS1_GSS_SP_CC 4,janv-14,,,0,0,4,26,754
+340,10_Audi  C7 T_S _BL-IS1_GSS_SP_CC 5,janv-14,,,0,0,4,26,754
+341,25_FCC D003 _BL-TI1_TSR-GTSRII_SP_CC 1,janv-14,,,0,0,4,14,754
+342,25_FCC D003 _BL-TI1_TSR-GTSRII_SP_CC 2,janv-14,,,0,0,4,14,754
+343,25_FCC D003 _BL-TI1_TSR-GTSRII_SP_CC 3,janv-14,,,0,0,4,14,754
+344,25_FCC D003 _BL-TI1_TSR-GTSRII_SP_CC 4,janv-14,,,0,0,4,14,754
+345,10_Audi Q3_BL-OS2_OSR -Novum_SP_CC,janv-14,,,0,0,4,26,754
+346,32_FCC J71R _BL-TI1_TSR -GTS R II_SP_CC,janv-14,,,0,0,4,14,754
+347,VAVE Common Project_SF,janv-14,,,0,0,4,25,750
+348,21_DPCA B73_01_TSR-GTS 0_DV_WH,janv-14,,,0,0,2,7,751
+349,02_CFMA J53R_01_TSR -GTS 2_DV_SH,janv-14,,,0,0,2,33,751
+350,03_BBA_WRSCC_DV_ICO,janv-14,,,0,0,2,15,754
+351,25_FCC C303_BL-TI1_GSS_SP_CC 1,janv-14,,,0,0,4,14,754
+352,25_FCC C303_BL-TI1_GSS_SP_CC 2,janv-14,,,0,0,4,14,754
+353,25_FCC C303_BL-TI1_GSS_SP_CC 3,janv-14,,,0,0,4,14,754
+354,06_SGM E18_06_ISR GTS 2_SP_SH,janv-14,,,0,0,4,2,751
+355,60_motor change to Nidec_SP_SH,janv-14,,,0,0,4,38,751
+356,02_CAF B515 MCA_BL-IS1_ICO SP_CQ,janv-14,,,0,0,4,12,756
+357,21_DPCA TX9_BL-OS1_FAM1_SP_WH 1,janv-14,,,0,0,4,7,752
+358,21_DPCA TX9_BL-OS1_FAM1_SP_WH 2,janv-14,,,0,0,4,7,752
+359,21_DPCA B73R_BL-IS1_FAM1_SP_WH,janv-14,,,0,0,4,7,752
+360,21_DPCA A94_M44_02_FTM_SP_WH,janv-14,,,0,0,4,7,752
+361,60_BAIC C50E_01_TSR-GTS 0_SP_SH,janv-14,,,0,0,4,19,751
+362,06_SGM D15_01_TSR Delta II_SP_SY,janv-14,,,0,0,4,2,753
+363,60_Denz_AQ_SH,janv-14,,,0,0,1,15,751
+364,J71R,janv-14,,,0,0,8,15,754
+365,J31 _ SUV,janv-14,,,0,0,8,15,754
+366,FAW-VW VW481_0 CN_KL,janv-14,,,0,0,8,26,754
+367,FCC PU raw material change,janv-14,,,0,0,8,14,754
+368,60_Changan Suzuki_WRSCQ_Acq_ICO,janv-14,,,0,0,8,9,756
+369,C490,janv-14,,,0,0,8,39,756
+370,B60X_B50S,janv-14,,,0,0,8,39,756
+371,60_CA S201_BL-OS_Panorama_ICO AQ_CQ,janv-14,,,0,0,8,12,756
+372,02_CAF_AQ_CQ,janv-14,,,0,0,1,12,756
+373,CAF C519_TL-SP1,janv-14,,,0,0,1,12,756
+374,21_CAPSA B753_01_TSR-GTS 0_DV_SH,janv-14,,,0,0,4,4,751
+375,60_CA D101_01_OSR-Novum_DV_SH,janv-14,,,0,0,2,9,751
+376,32_FCC J44AC_BL-TI1_TSR-GTSR_SP_CC,janv-14,,,0,0,4,14,754
+377,Geely CS11,janv-14,,,0,0,1,29,751
+378,Geely CH11,janv-14,,,0,0,1,29,751
+379,Geely CS12,janv-14,,,0,0,1,29,751
+380,Geely CC11,janv-14,,,0,0,1,29,751
+381,GEELY NL-2,janv-14,,,0,0,1,29,751
+382,60_Geely KC-1B_FE-6_BL-TI1_TSR-FAM3,janv-14,,,0,0,2,29,751
+383,60_Geely KC-1B_01_TSR-FAM3_AQ_SH,janv-14,,,0,0,1,29,751
+384,60_Geely KC-2_01_TSR-FAM3_AQ_SH,janv-14,,,0,0,1,29,751
+385,BAIC C51X,janv-14,,,0,0,1,19,751
+386,DRAC HZH SUV,janv-14,,,0,0,1,40,751
+387,GWM CHB022 H6 successor,janv-14,,,0,0,1,5,751
+388,GWM CH061,janv-14,,,0,0,1,5,751
+389,GWM CHK061,janv-14,,,0,0,1,5,751
+390,60_CH051Y_TL-FT1_WST_AQ_SH,janv-14,,,0,0,1,5,751
+391,06_E2UL_C1UC_BL-IS2_AQ_SH,janv-14,,,0,0,1,2,751
+392,06_E2UL_TL-FT1_Roller only_AQ_SH,janv-14,,,0,0,1,2,751
+393,06_A2LL-S_BL-OS2_AQ_SH,janv-14,,,0,0,1,2,751
+394,18_SV91_BL-SP1_AQ_SH,janv-14,,,0,0,1,27,751
+395,VW326_1 CS _Tiguan NF,janv-14,,,0,0,1,10,751
+396,SGM S4_Dummy Plan_AQ_SY,janv-14,,,0,0,1,2,753
+397,06_GM 9BXX_Dummy AQ_SY,janv-14,,,0,0,1,2,753
+398,DPCA TX9 PM Series Project Budget,janv-14,,,0,0,1,7,751
+399,60_DFFD_C16A_01_TSR-FAM3_AQ_SH,janv-14,,,0,0,1,41,751
+400,60_DFFD S12_06_OSR-Novum_AQ_SH,janv-14,,,0,0,1,41,751
+401,60_SAMAND_TL-IS1_FAM1_AQ_SH,janv-14,,,0,0,1,42,751
+402,BBA NES,janv-14,,,0,0,1,16,754
+403,BBAC X156(BLK),janv-14,,,0,0,1,15,754
+404,W213 MASD(Panorama),janv-14,,,0,0,1,15,754
+405,BBAC BR247_2,janv-14,,,0,0,1,15,754
+406,FCC J83C,janv-14,,,0,0,1,14,754
+407,FCC D003N(Panorama),janv-14,,,0,0,1,14,754
+408,FCC D058,janv-14,,,0,0,1,14,754
+409,BAIC YINYANG SC20,janv-14,,,0,0,1,43,756
+410,CFMA C346 successor,janv-14,,,0,0,1,33,756
+411,ChangAn S401 T_S,janv-14,,,0,0,7,44,756
+412,CA C2X,janv-14,,,0,0,1,44,756
+413,60_CA S401_BL-OS_Panorama_AQ_CQ,janv-14,,,0,0,7,44,756
+414,60_CA S201_BL-OS_Panorama_AQ_CQ,janv-14,,,0,0,7,44,756
+415,60_CA S111_BL-OS_Panorama_AQ_CQ,janv-14,,,0,0,1,44,756
+416,60_CA S401 TSR_BL-OS_TSR_AQ_CQ,janv-14,,,0,0,1,44,756
+417,Lifan X70,janv-14,,,0,0,1,45,756
+418,Sichuan Automobile F18,janv-14,,,0,0,1,13,756
+419,60_B62_Panorama_AQ_CQ,janv-14,,,0,0,1,13,756
+420,BMW UKL,janv-14,,,0,0,1,16,754
+421,FCC D021,janv-14,,,0,0,1,14,754
+422,Bora GP2 ( 311-2),janv-14,,,0,0,1,10,754
+423,FCC C301(Red flag),janv-14,,,0,0,1,14,754
+424,25_FCC C131_BL-TI1_GSS_SP_CC 1,janv-14,,,0,0,1,14,754
+425,25_FCC C131_BL-TI1_GSS_SP_CC 2,janv-14,,,0,0,1,14,754
+426,D568,janv-14,,,0,0,1,12,756
+427,JMC V362,janv-14,,,0,0,1,21,756
+428,ChangAn Suzuki YL1,janv-14,,,0,0,1,46,756
+429,ChangAn Suzuki YWN,janv-14,,,0,0,1,46,756
+430,SGMW CN200_GP60,janv-14,,,0,0,1,47,756
+431,Volvo L541,janv-14,,,0,0,1,24,756
+432,Volvo V426K,janv-14,,,0,0,1,24,756
+433,Volvo L431,janv-14,,,0,0,1,24,756
+434,P11 Facelift,janv-14,,,0,0,1,24,756
+435,K555_K556,janv-14,,,0,0,1,24,756
+436,C116_CV8,janv-14,,,0,0,1,44,756
+437,CMA,janv-14,,,0,0,1,29,756
+438,GAMC A30-II panorama,janv-14,,,0,0,1,48,760
+439,085_AE15-13 Novum3 S_BL_PD_SF,janv-14,,,0,0,3,25,750
+440,06_SGM308_BL-TI1_TSR-GTS-O_SP,janv-14,,,0,0,1,2,751
+441,06_SGM201MCE_BL-SP1_SP_SH,janv-14,,,0,0,1,2,751
+442,18_SMC BP12_BL-IS1_SP_SH,janv-14,,,0,0,1,27,751
+443,60_common CC support CQ ICO,janv-14,,,0,0,1,38,756
+444,CAPSA WRS GZ for Budget,janv-14,,,0,0,6,4,760
+445,GM WRS SH for Budget,janv-14,,,0,0,6,1,751
+446,SMC WRS SH for Budget,janv-14,,,0,0,6,27,751
+447,GM WRS SY for Budget,janv-14,,,0,0,6,1,753
+448,GM WRS WH for Budget,janv-14,,,0,0,6,1,752
+449,CAPSA WRS WH for Budget,janv-14,,,0,0,6,4,752
+450,Chery Kaiyi WRS SH for Budget,janv-14,,,0,0,6,49,751
+451,Great Wall WRS SH for Budget,janv-14,,,0,0,6,5,751
+452,Foton WRS SH for Budget,janv-14,,,0,0,6,3,751
+453,Geely WRS SH for Budget,janv-14,,,0,0,6,29,751
+454,CMA WRS SH for Budget,janv-14,,,0,0,6,31,751
+455,Zotye WRS SH for Budget,janv-14,,,0,0,6,8,751
+456,DongfengFengdu WRS-SH for Budget,janv-14,,,0,0,6,50,751
+457,CJLR WRS SH for Budget,janv-14,,,0,0,6,6,751
+458,SVW WRS SH for Budget,janv-14,,,0,0,6,20,751
+459,DFYL WRS SH for Budget,janv-14,,,0,0,6,32,751
+460,Chrysler WRS WH for Budget,janv-14,,,0,0,6,34,752
+461,SVW WRS WH for Budget,janv-14,,,0,0,6,20,752
+462,DPCA WRS CQ for Budget,janv-14,,,0,0,6,7,756
+463,DPCA WRS WH for Budget,janv-14,,,0,0,6,7,752
+464,DFPV WRS WH for Budget,janv-14,,,0,0,6,36,752
+465,DFLZM WRS WH for Budget,janv-14,,,0,0,6,51,752
+466,FAW-VW WRS CC for Budget,janv-14,,,0,0,6,26,754
+467,BBA WRS SY for Budget,janv-14,,,0,0,6,16,753
+468,FAW-VW WRS CQ for Budget,janv-14,,,0,0,6,26,756
+469,FAW-VW WRS GZ for Budget,janv-14,,,0,0,6,26,760
+470,BHAC WRS CQ for Budget,janv-14,,,0,0,6,52,756
+471,CAF WRS CQ for Budget,janv-14,,,0,0,6,12,756
+472,CA Group WRS CQ for Budget,janv-14,,,0,0,6,44,756
+473,Sichuan Auto WRS CQ for Budget,janv-14,,,0,0,6,13,756
+474,BAIC Yinxiang WRS CQ for Budget,janv-14,,,0,0,6,19,756
+475,Lifan  WRS CQ for Budget,janv-14,,,0,0,6,45,756
+476,GAMC WRS GZ for Budget,janv-14,,,0,0,6,48,760
+477,Nissan WRS GZ for Budget,janv-14,,,0,0,6,53,760
+478,Venucia WRS GZ for Budget,janv-14,,,0,0,6,54,760
+479,GHAC WRS GZ for Budget,janv-14,,,0,0,6,55,760
+480,WDHAC WRS GZ for Budget,janv-14,,,0,0,6,56,760
+481,Renault WRS WH for Budget,janv-14,,,0,0,6,57,752
+482,GMMC WRS XY for Budget,janv-14,,,0,0,6,58,761
+483,Nissan WRS XY for Budget,janv-14,,,0,0,6,53,761
+484,Toyota WRS SY for Budget,janv-14,,,0,0,6,59,753
+485,Toyota WRS GZ for Budget,janv-14,,,0,0,6,59,760
+486,10_SVW VW276_Dummy_Plan DV_SH,janv-14,,,0,0,7,20,751
+487,10_SVW VW270CS_Dummy_Plan_DV_SH,janv-14,,,0,0,7,20,751
+488,21_DPCA A88C_Dummy_Plan_DV_WH,janv-14,,,0,0,7,7,752
+489,21_DPCA P24_Dummy_Plan_DV_WH,janv-14,,,0,0,7,7,752
+490,60_DFPV X37_Dummy_Plan_DV_WH,janv-14,,,0,0,7,36,752
+491,10_FAW-VW AU581_Dummy_Plan_DV_CC,janv-14,,,0,0,7,26,754
+492,10_FAW-VW A-Main SUV_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,26,760
+493,20_Nissan W21B_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,53,760
+494,20_Nissan L12M succ 1_Dummy_Plan_DV_GZ,janv-14,,,0,0,2,53,761
+495,20_Nissan R71(1)_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,53,760
+496,20_Nissan 07DA_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,53,760
+497,20_Nissan P32S_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,53,760
+498,60_Venucia 322'_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,54,761
+499,20_Nissan B-SUV_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,53,760
+500,20_Nissan P60A_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,53,760
+501,60_GHAC 2XP-succ_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,55,760
+502,60_GHAC 2JA_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,55,760
+503,60_GHAC Accord Derived_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,55,760
+504,60_WDHAC 2XW-succ_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,56,760
+505,60_WDHAC 2CT-succ_Dummy_Plan_DV_GZ,janv-14,,,0,0,7,56,760
+506,20_Renault LFJ_Dummy_Plan_DV_WH,janv-14,,,0,0,7,57,752
+507,20_Renault BFJ_Dummy_Plan_DV_WH,janv-14,,,0,0,7,57,752
+508,20_Nissan X-Trail Succ(1)_Dummy_Plan_DV_XY,janv-14,,,0,0,7,53,761
+509,20_Nissan Teana L42P_Dummy_Plan_DV_XY,janv-14,,,0,0,2,53,761
+510,Common Series support project_SP_WH,janv-14,,,0,0,4,25,752
+511,Common Series support project_SP_SY,janv-14,,,0,0,4,25,753
+512,GA002 (2TW),janv-14,,,0,0,2,55,760
+513,JA012 Nissan L02D(GTS-R3),janv-14,,,0,0,2,53,760
+514,CA001 (HZH),janv-14,,,0,0,2,53,761
+515,JA010 (L42N),janv-14,,,0,0,2,53,761
+516,JA011 Nissan L42P TLOSR,janv-14,,,0,0,7,53,761
+517,JA009 (L12M),janv-14,,,0,0,2,53,760
+518,KA002(A30),janv-14,,,0,0,2,48,760
+519,Zotye B17 BL-OSR,janv-14,,,0,0,7,8,751
+520,S401 Panorama,janv-14,,,0,0,7,44,756
+521,S301 Panaroma,janv-14,,,0,0,7,9,756
+522,Zotye A01N,janv-14,,,0,0,7,8,751
+523,FCC WRS CC for Budget,janv-14,,,0,0,6,14,754
+524,JP Car Common Series support_SP_GZ,janv-14,,,0,0,4,25,760
+525,European Car Common Series support_SP_GZ,janv-14,,,0,0,4,25,760
+526,JP Car Common Series support_SP_XY,janv-14,,,0,0,4,25,761
+527,NCIC JB006(to Europe),janv-14,,,0,0,4,60,760
+528,DFL RD072,janv-14,,,0,0,4,61,760
+529,06_GM D15 Successor_BL-IS1_Dummy Plan_SP_SY,janv-14,,,0,0,4,1,753
+530,02_CAF  C430_TL-SP2_Dummy Plan_DV_CQ,janv-14,,,0,0,7,12,756
+531,Geely _WRCQ_PS_ICO,janv-14,,,0,0,4,29,756
+532,27_FCC  D077_BL-OS_ICO AQ_CC,janv-14,,,0,0,1,14,754
+533,60_GAMC A5H_ICO_AQ_GZ,janv-14,,,0,0,1,48,760
